@@ -48,6 +48,8 @@ A typical RAG architecture for this type of application is:
 
 <img width="1068" height="644" alt="image" src="https://github.com/user-attachments/assets/ac897250-2a2b-40f0-9aee-122ef4c41537" />
 
+# Screen Shot Of Company Policy AI Chatbot
+<img width="1617" height="820" alt="{5E8C9BB9-C3D8-46CC-922F-D65DA3907AFE}" src="https://github.com/user-attachments/assets/652f26c5-a076-46a8-9dfe-a8e37a38fd10" />
 
 
 
