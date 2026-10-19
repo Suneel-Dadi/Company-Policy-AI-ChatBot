@@ -79,6 +79,15 @@ Do not publish invented accuracy percentages or performance scores. If evaluatio
 - A local Ollama setup may require the model to be downloaded and running.
 - The chatbot should not replace the original policy document or official HR guidance.
 
+- ## 💡 Final Thoughts
+
+This project demonstrates how **Generative AI and Retrieval-Augmented Generation (RAG)** can transform traditional company policy documents into an interactive knowledge assistant. 
+By enabling employees to ask questions in natural language and retrieve relevant policy information, the chatbot aims to reduce manual searching, improve accessibility, and support faster decision-making.
+
+**My vision:** Build a smarter, more reliable AI assistant that helps organizations make their internal knowledge accessible, searchable, and easier to understand.
+
+*Built with Python, Generative AI, and a passion for solving real-world problems.* 🚀
+
 
 
 
