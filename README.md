@@ -51,6 +51,34 @@ A typical RAG architecture for this type of application is:
 # Screen Shot Of Company Policy AI Chatbot
 <img width="1617" height="820" alt="{5E8C9BB9-C3D8-46CC-922F-D65DA3907AFE}" src="https://github.com/user-attachments/assets/652f26c5-a076-46a8-9dfe-a8e37a38fd10" />
 
+# Road map and Feature Enhancements
+04. Mark items as completed only after they have been implemented and tested.
+- [ ] Verify PDF extraction and document upload behavior.
+- [ ] Show source passages or page references with answers.
+- [ ] Build a small evaluation set of questions and expected source passages.
+- [ ] Evaluate retrieval quality and answer correctness.
+- [ ] Improve handling of missing answers and unsupported questions.
+- [ ] Add clear errors for malformed or scanned PDFs.
+- [ ] Improve the interface and loading feedback.
+- [ ] Deploy the app securely, if deployment is appropriate.
+- [ ] Add authentication and access controls if handling confidential documents.
+05.  #Results, Limitations and License
+Results and Evaluation
+Record results only after testing the application. A useful evaluation set can include representative policy questions, the expected supporting passages, and the chatbot's answers.
+
+# Potential measures include:
+- Retrieval quality: whether the relevant policy passage appears among retrieved results.
+- Answer correctness: whether the answer agrees with the source document.
+- Citation accuracy: whether any cited source actually supports the answer.
+- Latency: how long retrieval and answer generation take.
+Do not publish invented accuracy percentages or performance scores. If evaluation has not been performed, state: Formal evaluation is not yet completed.
+# Limitations
+- Generated answers may be incomplete or incorrect.
+- Output quality depends on PDF text extraction, chunking, retrieval, and the selected model.
+- Scanned PDFs may require OCR if the current implementation does not support them.
+- A local Ollama setup may require the model to be downloaded and running.
+- The chatbot should not replace the original policy document or official HR guidance.
+
 
 
 
