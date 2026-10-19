@@ -33,15 +33,25 @@ These are intended benefits, not measured performance claims.
 03. Technology Stack:
 4. | Technology | Possible role |
 |---|---|
+
 Technology	         Possible role
+
 Python	             Application logic
+
 Streamlit          	 Web user interface
+
 LangChain	           Connecting document processing, retrieval, and model components
+
 FAISS	               Vector similarity search
+
 Embedding model	     Representing text as vectors
+
 Ollama	             Running a supported local language model
+
 PDF
+
 processing library	 Extracting text from PDF files
+
 
 Architecture and Workflow
 A typical RAG architecture for this type of application is:
