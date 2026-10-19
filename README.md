@@ -89,6 +89,28 @@ Do not publish invented accuracy percentages or performance scores. If evaluatio
 - A local Ollama setup may require the model to be downloaded and running.
 - The chatbot should not replace the original policy document or official HR guidance.
 
+- ## 💡 Project Idea and Relevance
+
+### 🎯 Project Idea
+Organizations maintain important information in company policy documents, including leave policies, employee benefits, attendance rules, workplace guidelines, and IT policies. Employees often need to search through lengthy PDF documents to find answers to specific questions, which can be time-consuming.
+
+The **Company Policy AI Chatbot** aims to simplify this process by allowing users to ask questions in natural language and receive relevant answers based on company policy documents.
+
+### 🌍 Real-World Relevance
+This project demonstrates how Artificial Intelligence (AI), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) can be applied to real-world workplace information retrieval.
+
+**Key benefits:**
+- ⏱️ **Saves Time:** Helps users find relevant policy information without manually searching entire documents.
+- 🔎 **Simplifies Information Access:** Makes policy documents easier to query using natural language.
+- 🤖 **AI-Powered Interaction:** Provides a conversational interface for asking questions about company policies.
+- 🏢 **Workplace Productivity:** Can help employees and HR teams access internal policy information more efficiently.
+- 🚀 **Scalable Potential:** Can be extended to support multiple documents, additional policy categories, and more advanced retrieval capabilities.
+
+### 👨‍💻 Learning Outcomes
+Through this project, I explored how document processing, semantic search, vector databases, and Large Language Models can work together to build an AI-powered question-answering application.
+
+**Project Goal:** To make company policy information more accessible, searchable, and easier to understand through conversational AI.
+
 - ## 💡 Final Thoughts
 
 This project demonstrates how **Generative AI and Retrieval-Augmented Generation (RAG)** can transform traditional company policy documents into an interactive knowledge assistant. 
