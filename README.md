@@ -89,6 +89,8 @@ Do not publish invented accuracy percentages or performance scores. If evaluatio
 - A local Ollama setup may require the model to be downloaded and running.
 - The chatbot should not replace the original policy document or official HR guidance.
 
+- # Demo Live Link : https://github.com/Suneel-Dadi/Company-Policy-AI-ChatBot/blob/main/Company%20Policy%20%20AI%20Chatbot.mp4
+
 - ## 💡 Project Idea and Relevance
 
 ### 🎯 Project Idea
